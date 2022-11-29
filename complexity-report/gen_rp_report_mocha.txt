@@ -1,0 +1,6 @@
+Success number: 403
+Fail number: 3
+Failed files:
+- /Users/ducle/Code/mocha/test/integration/fixtures/esm/syntax-error/esm-syntax-error.fixture.mjs
+- /Users/ducle/Code/mocha/test/integration/fixtures/esm/test-that-uses-dir-cjs-require.fixture.js
+- /Users/ducle/Code/mocha/test/integration/fixtures/options/parallel/syntax-err.fixture.js

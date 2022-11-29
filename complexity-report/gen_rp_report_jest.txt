@@ -1,0 +1,20 @@
+Success number: 1669
+Fail number: 17
+Failed files:
+- /Users/ducle/Code/jest/e2e/regex-(char-in-path/__tests__/regexCharInPath.test.js
+- /Users/ducle/Code/jest/examples/angular/app.component.ts
+- /Users/ducle/Code/jest/examples/angular/app.module.ts
+- /Users/ducle/Code/jest/examples/angular/shared/data.service.ts
+- /Users/ducle/Code/jest/examples/angular/shared/sub.service.ts
+- /Users/ducle/Code/jest/packages/expect/src/asymmetricMatchers.ts
+- /Users/ducle/Code/jest/packages/jest-core/src/FailedTestsInteractiveMode.ts
+- /Users/ducle/Code/jest/packages/jest-core/src/__tests__/test_root_with_(parentheses)/__testtests__/test.js
+- /Users/ducle/Code/jest/packages/jest-core/src/__tests__/test_root_with_(parentheses)/module.jsx
+- /Users/ducle/Code/jest/packages/jest-mock/__typetests__/utility-types.test.ts
+- /Users/ducle/Code/jest/packages/jest-repl/src/cli/runtime-cli.ts
+- /Users/ducle/Code/jest/packages/jest-runner/src/types.ts
+- /Users/ducle/Code/jest/packages/jest-transform/src/ScriptTransformer.ts
+- /Users/ducle/Code/jest/packages/jest-validate/src/condition.ts
+- /Users/ducle/Code/jest/packages/jest-watcher/src/PatternPrompt.ts
+- /Users/ducle/Code/jest/packages/jest-worker/src/Farm.ts
+- /Users/ducle/Code/jest/packages/jest-worker/src/PriorityQueue.ts
