@@ -1,3 +1,4 @@
+// https://www.npmjs.com/package/typhonjs-escomplex
 const escomplex = require('typhonjs-escomplex')
 const fs = require('fs')
 

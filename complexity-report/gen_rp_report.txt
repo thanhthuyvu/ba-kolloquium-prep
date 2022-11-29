@@ -1,0 +1,20 @@
+Success number: 1669
+Fail number: 17
+Failed files:
+- ../../jest/e2e/regex-(char-in-path/__tests__/regexCharInPath.test.js
+- ../../jest/examples/angular/app.component.ts
+- ../../jest/examples/angular/app.module.ts
+- ../../jest/examples/angular/shared/data.service.ts
+- ../../jest/examples/angular/shared/sub.service.ts
+- ../../jest/packages/expect/src/asymmetricMatchers.ts
+- ../../jest/packages/jest-core/src/FailedTestsInteractiveMode.ts
+- ../../jest/packages/jest-core/src/__tests__/test_root_with_(parentheses)/__testtests__/test.js
+- ../../jest/packages/jest-core/src/__tests__/test_root_with_(parentheses)/module.jsx
+- ../../jest/packages/jest-mock/__typetests__/utility-types.test.ts
+- ../../jest/packages/jest-repl/src/cli/runtime-cli.ts
+- ../../jest/packages/jest-runner/src/types.ts
+- ../../jest/packages/jest-transform/src/ScriptTransformer.ts
+- ../../jest/packages/jest-validate/src/condition.ts
+- ../../jest/packages/jest-watcher/src/PatternPrompt.ts
+- ../../jest/packages/jest-worker/src/Farm.ts
+- ../../jest/packages/jest-worker/src/PriorityQueue.ts

@@ -48,7 +48,7 @@ describe('test suite #{i}', () => {
     })
 
     context('context #{i} 2', () => {
-      it('should pass', () => {
+      it('should not pass', () => {
         expect('1').to.not.be.a('string')
       })
     })
